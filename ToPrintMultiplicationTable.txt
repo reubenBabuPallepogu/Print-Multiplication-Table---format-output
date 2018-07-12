@@ -1,5 +1,7 @@
 // To print the multiplication table formating units, tens and hundreds digits accordingly.
 
+//output
+
 To print multiplication table of a given number.
 Which multiplication table you want to print? 17
 17 x  1 =  17
