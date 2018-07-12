@@ -1,4 +1,4 @@
-# To print multiplication table a given number
+# To print multiplication table of a given number
 print("\nTo print multiplication table of a given number.")
 multiplication_Table = input("Which multiplication table you want to print? ")
 count = 10
